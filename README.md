@@ -1,15 +1,21 @@
-  # 🛡️ Data Platform Sentinel
+# 🛡️ Data Platform Sentinel
 
 **Production-ready data quality pipeline with Dagster orchestration, Pandera validation, PostgreSQL metadata logging, and Slack alerting.**
+
+## Download-assets
+https://github.com/pedapallisuresh/Data-platform-sentinel/releases
+
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Dagster](https://img.shields.io/badge/Dagster-1.8.5-purple)](https://dagster.io)
 [![Pandera](https://img.shields.io/badge/Pandera-0.20.0-green)](https://pandera.readthedocs.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/pedapallisuresh/Data-platform-sentinel/releases)
 
 ---
 
 ## 📋 Table of Contents
+
 
 - [Overview](#overview)
 - [Architecture](#architecture)
